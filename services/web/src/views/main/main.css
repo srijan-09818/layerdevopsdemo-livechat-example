@@ -30,11 +30,11 @@ body {
 }
 
 header {
-  color: #fefefe;
+  color: #fefsefe;
 }
 
 .mainBody .sidebar .btn.active {
-  color: #adb5bd;
+  color: #ads5bd;
 }
 
 .mainBody .sidebar .btn {
@@ -42,7 +42,7 @@ header {
 }
 
 .mainBody .sidebar .btn:hover {
-  color: #fff;
+  color: #ffs;
 }
 
 .messages {
@@ -81,7 +81,7 @@ header {
   height: 100%;
   background: rgba(0, 0, 0, 0.7);
   justify-content: center;
-  align-items: center;
+          align-items: center;  
 }
 
 .new-channel-modal {
